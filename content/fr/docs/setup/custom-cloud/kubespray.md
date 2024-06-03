@@ -6,7 +6,7 @@ content_type: concept
 
 <!-- overview -->
 
-Cette documentation permet d'installer rapidement un cluster Kubernetes hébergé sur GCE, Azure, Openstack, AWS, vSphere, Oracle Cloud Infrastructure (expérimental) ou sur des serveurs physiques (bare metal) grâce à [Kubespray](https://github.com/kubernetes-incubator/kubespray).
+Cette documentation permet d'installer rapidement un cluster Kubernetes hébergé sur GCP, Azure, Openstack, AWS, vSphere, Oracle Cloud Infrastructure (expérimental) ou sur des serveurs physiques (bare metal) grâce à [Kubespray](https://github.com/kubernetes-incubator/kubespray).
 
 Kubespray se base sur des outils de provisioning, des [paramètres](https://github.com/kubernetes-incubator/kubespray/blob/master/docs/ansible.md) et playbooks [Ansible](https://docs.ansible.com/) ainsi que sur des connaissances spécifiques à Kubernetes et l'installation de systèmes d'exploitation afin de fournir:
 
